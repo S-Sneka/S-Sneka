@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S-Sneka
+- 👀 I’m interested in Web development & data science
+- 🌱 I’m currently learning frontend technologies
+- 💞️ I’m looking to collaborate on web development
+- 📫 How to reach me- snekasekar333@gmail.com
